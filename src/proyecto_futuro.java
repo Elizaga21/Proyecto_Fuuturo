@@ -2,7 +2,7 @@ import java.lang.constant.Constable;
 import java.util.Scanner;
 
 public class proyecto_futuro {
-    private static void main (String[] args){
+    public static void main (String[] args){
         Scanner sc = new Scanner(System.in);
 
         String nombre;
